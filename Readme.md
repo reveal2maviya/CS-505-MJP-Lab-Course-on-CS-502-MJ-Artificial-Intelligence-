@@ -1,63 +1,69 @@
+# CS-505-MJP-Lab-Course-on-CS-502-MJ-Artificial-Intelligence
 
-# Programming Practice Repository
+**Creator:** Maviya Shaikh
 
-This repository contains a collection of programming exercises and projects in Python. These exercises cover a range of topics, from basic programming concepts to more advanced AI and problem-solving tasks.
+## Table of Contents
+1. [Practical on basic programs using Python](#practical-on-basic-programs-using-python)
+2. [List Operations](#list-operations)
+3. [Illustrate Different Set Operations](#illustrate-different-set-operations)
+4. [Simple Chatbot](#simple-chatbot)
+5. [Breadth First Search Traversal](#breadth-first-search-traversal)
+6. [Depth First Search Traversal](#depth-first-search-traversal)
+7. [Water Jug Problem](#water-jug-problem)
+8. [K-Nearest Neighbor Algorithm](#k-nearest-neighbor-algorithm)
+9. [Regression Algorithm](#regression-algorithm)
+10. [Random Forest Algorithm](#random-forest-algorithm)
+11. [Solving the Eight Queens Problem](#solving-the-eight-queens-problem)
+12. [Arrangement of Objects in a Room](#arrangement-of-objects-in-a-room)
+13. [Learning Agent for a Lift](#learning-agent-for-a-lift)
+14. [Solving the N Queens Puzzle using Forward Checking](#solving-the-n-queens-puzzle-using-forward-checking)
+15. [Tic-Tac-Toe Game](#tic-tac-toe-game)
 
-## List of Questions
+## 1. Practical on basic programs using Python
 
-1. **Basic Python Programs**
-    - [Program to print the multiplication table for a given number.](Q01a.py)
-    - [Program to check whether a given number is prime or not.](Q01b.py)
-    - [Program to find the factorial of a given number.](Q01c.py)
+a) Program to print multiplication table for a given number.
 
-2. **List Operations**
-    - Exploring various list operations including nested lists, length, concatenation, membership testing, iteration, and indexing and slicing.
-    - Demonstrating list methods like add, extend, and delete.
+b) Program to check whether the given number is prime or not.
 
-3. **Set Operations**
-    - Writing programs to illustrate different set operations.
+c) Program to find the factorial of the given number and similar programs.
 
-4. **Simple Chatbot**
-    - Implementing a basic chatbot in Python.
+## 2. List Operations
 
-5. **Breadth-First Search (BFS) Traversal**
-    - Writing a program to perform BFS traversal on a graph.
+a) Nested list, Length, Concatenation, Membership, Iteration, Indexing, and Slicing.
 
-6. **Depth-First Search (DFS) Traversal**
-    - Implementing DFS traversal on a graph.
+b) List Methods - Add, Extend, and Delete.
 
-7. **Water Jug Problem**
-    - Writing a program to solve the classic water jug problem.
+## 3. Illustrate Different Set Operations
 
-8. **K-Nearest Neighbor (K-NN) Algorithm**
-    - Implementing the K-NN algorithm for classification.
+## 4. Simple Chatbot
 
-9. **Regression Algorithm**
-    - Writing a program to implement a regression algorithm.
+## 5. Breadth First Search Traversal
 
-10. **Random Forest Algorithm**
-    - Implementing the Random Forest algorithm for classification.
+## 6. Depth First Search Traversal
 
-11. **Eight Queens Problem (Uninformed Search)**
-    - Developing a program to solve the classic eight queens problem using uninformed search techniques.
+## 7. Water Jug Problem
 
-12. **Object Arrangement with A* Search (Informed Search)**
-    - Implementing an A* search-based system to efficiently arrange rectangular and square-shaped objects in a room. This includes defining a suitable heuristic, dimensions of objects, and the room.
+## 8. K-Nearest Neighbor Algorithm
 
-13. **Learning Agent for a Lift (Intelligent Agent)**
-    - Creating a learning agent for a lift system that decides floor halts based on individual identities and optimizes energy usage by eliminating redundant operations.
+## 9. Regression Algorithm
 
-14. **N Queens Puzzle with Forward Checking (Constraint Satisfaction Problem)**
-    - Developing a program to solve the N queens puzzle using forward checking. The README demonstrates how constraints are handled step by step.
+## 10. Random Forest Algorithm
 
-15. **Tic-Tac-Toe Game (Game Theory)**
-    - Writing a computer program to play the classic game of tic-tac-toe.
+## 11. Solving the Eight Queens Problem (Uninformed Search)
 
-Please explore the respective folders and files for each question to access the code and detailed explanations. Feel free to contribute, provide feedback, or use these programs for your learning and projects.
+## 12. Arrangement of Objects in a Room (Informed Search)
 
-## Contributing
+Implement a system that performs the arrangement of some set of objects in a room. Assume that you have only 5 rectangular and 4 square-shaped objects. Use an A* approach for the placement of the objects in the room for efficient space utilization. Assume suitable heuristic, and dimensions of objects and rooms.
 
-If you'd like to contribute to this repository or have any suggestions, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+## 13. Learning Agent for a Lift (Intelligent Agent)
+
+(a) The lift would halt at a particular floor based on the identity of the individual.
+
+(b) There would be energy optimization through the elimination of redundant operations.
+
+## 14. Solving the N Queens Puzzle using Forward Checking (Constraint Satisfaction Problem)
+
+## 15. Tic-Tac-Toe Game (Game Theory)
 
 ## License
 
