@@ -2,7 +2,7 @@
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Table of Contents
