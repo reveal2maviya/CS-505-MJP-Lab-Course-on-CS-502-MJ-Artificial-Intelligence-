@@ -4,9 +4,9 @@
 
 # Table of Contents
 1. [Practical on basic programs using Python](#practical-on-basic-programs-using-python)
-    a. [Program to print multiplication table for a given number.](Q01a.py)
-    b. [Program to check whether the given number is prime or not.](Q01b.py)
-    c. [Program to find the factorial of the given number and similar programs.](Q01c.py)
+    1. [Program to print multiplication table for a given number.](Q01a.py)
+    2. [Program to check whether the given number is prime or not.](Q01b.py)
+    3. [Program to find the factorial of the given number and similar programs.](Q01c.py)
 2. [List Operations](#list-operations)
 3. [Illustrate Different Set Operations](#illustrate-different-set-operations)
 4. [Simple Chatbot](#simple-chatbot)
