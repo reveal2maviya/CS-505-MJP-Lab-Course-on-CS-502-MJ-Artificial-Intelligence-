@@ -2,7 +2,7 @@
 
 **Creator:** Maviya Shaikh
 
-## Table of Contents
+# Table of Contents
 1. [Practical on basic programs using Python](#practical-on-basic-programs-using-python)
     a) [Program to print multiplication table for a given number.](Q01a.py)
     b) [Program to check whether the given number is prime or not.](Q01b.py)
