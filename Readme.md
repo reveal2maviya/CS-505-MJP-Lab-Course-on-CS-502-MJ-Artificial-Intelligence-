@@ -6,9 +6,9 @@ This repository contains a collection of programming exercises and projects in P
 ## List of Questions
 
 1. **Basic Python Programs**
-    - Program to print the multiplication table for a given number.(Q01a.py)
-    - Program to check whether a given number is prime or not.(Q01b.py)
-    - Program to find the factorial of a given number.(Q01c.py)
+    - [Program to print the multiplication table for a given number.](Q01a.py)
+    - [Program to check whether a given number is prime or not.](Q01b.py)
+    - [Program to find the factorial of a given number.](Q01c.py)
 
 2. **List Operations**
     - Exploring various list operations including nested lists, length, concatenation, membership testing, iteration, and indexing and slicing.
